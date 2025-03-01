@@ -1,0 +1,1 @@
+{"d_model": 64, "nhead": 4, "num_layers": 2, "learning_rate": 0.001, "epochs": 100, "loss": "MSE", "batch_size": 32, "train_prctg": 0.8}
